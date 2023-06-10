@@ -1,0 +1,50 @@
+#hero {
+    background-image: url('https://www.freecodecamp.org/news/content/images/size/w2000/2022/09/jonatan-pie-3l3RwQdHRHg-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px 0; /* Adjust the padding as per your design */
+    color: #fff; /* Set the text color */
+  }
+  
+  #hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  #hero p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  #hero .btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  .navbar-brand img {
+    width: 50px; /* Adjust the logo width as per your design */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  .navbar-brand {
+    padding: 5px; /* Adjust the padding as per your design */
+  }
+  .navbar-nav .nav-item .nav-link.btn {
+    padding: 8px 16px;
+    border-radius: 4px;
+    color: #fff;
+  }
+  
+  .navbar-nav .nav-item .nav-link.btn.btn-primary {
+    background-color: #335eea;
+    border: none;
+  }
+  
+  .navbar-nav .nav-item .nav-link.btn.btn-outline-primary {
+    background-color: transparent;
+    border: 1px solid #335eea;
+  }
+  
+  
+  
